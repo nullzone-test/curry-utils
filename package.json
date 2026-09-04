@@ -1,1 +1,1 @@
-{"name":"curry-utils","version":"1.0.0","private":true}
+{"name":"curry-utils","version":"1.0.0","private":true,"scripts":{"test":"node src/curry.test.js"}}
